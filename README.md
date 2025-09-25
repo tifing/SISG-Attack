@@ -1,5 +1,5 @@
 # SISG-Attack  
-**Jailbreaking Multimodal LLMs via Structure-Induced Safety Gaps**
+**SISG-ATTACK: JAILBREAKING MULTIMODAL LARGE LANGUAGE MODELS VIA STRUCTURE-INDUCED SAFETY GAPS**
 
 
 SISG-Attack is a layout-guided jailbreak method that transforms harmful inputs into structured multimodal layouts—by converting text into tables and embedding images within cells—to elongate reasoning chains and delay or suppress safety mechanisms in multimodal language models.
