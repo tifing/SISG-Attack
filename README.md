@@ -10,7 +10,7 @@ This repository provides the core implementation used to run SISG-Attack against
 
 
 **Results**  
-Evaluation artifacts for GPT-4o runs are available here:https://drive.google.com/file/d/16c8m9zXSwOVirRCwOh5So9hLJFTXdfAJ/view?usp=sharing  
+Evaluation results for GPT-4o runs are available here:https://drive.google.com/file/d/16c8m9zXSwOVirRCwOh5So9hLJFTXdfAJ/view?usp=sharing  
 
 
 **Disclaimer**  
